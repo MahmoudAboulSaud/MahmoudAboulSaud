@@ -8,8 +8,7 @@ I transform raw data into meaningful insights, dashboards, and data-driven decis
 
 ## 🧠 About Me
 I'm a Data Analyst passionate about data storytelling, business intelligence, and artificial intelligence.  
-I work on analyzing datasets, building dashboards, and applying machine learning and NLP techniques to extract insights.
-
+I help transform raw data into business insights that support decision-making and improve performance.
 ---
 
 ## 🛠️ Skills & Tools
@@ -31,11 +30,17 @@ I work on analyzing datasets, building dashboards, and applying machine learning
 
 ### ⚙️ Big Data & Systems
 - Apache Ecosystem (Spark / Hadoop basics)
-
+- 
+## ⚙️ Tools Environment
+- Git & GitHub
+- Jupyter Notebook
+- SQL Server
+- Tableau / Power BI Service
+- VS Code
 ---
 
 ## 📈 Projects
-- Sales Performance Dashboard (Tableau / Power BI)
+- Sales Performance Analysis Dashboard – Identified key revenue drivers and regional performance trends
 - SQL Data Analysis Projects (Business Insights)
 - Python EDA & Data Cleaning Projects
 - NLP Text Analysis Projects (News / Reviews)
